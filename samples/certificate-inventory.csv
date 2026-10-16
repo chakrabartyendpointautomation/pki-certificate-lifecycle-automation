@@ -1,0 +1,4 @@
+AssetAlias,CertificateType,OwnerTeam,Environment,NotAfterUtc
+SYN-DEVICE-001,Device SCEP,Endpoint Lab,Lab,2026-10-01T00:00:00Z
+SYN-WIFI-002,Device EAP-TLS,Network Lab,Test,2026-11-01T00:00:00Z
+SYN-SERVICE-003,Service TLS,Platform Lab,Test,2027-06-30T00:00:00Z
