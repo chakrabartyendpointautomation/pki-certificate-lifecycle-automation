@@ -2,7 +2,7 @@
 
 A defensive, synthetic portfolio project for tracking certificate lifecycle state, identifying renewal windows, and reviewing certificate operations across endpoint and service environments.
 
-> This is a portfolio lab and design exercise. It does not claim production PKI administration or work for an employer/customer. The user’s documented portfolio centers on endpoint management across Microsoft Intune, Entra ID, Jamf, and PowerShell; this repository demonstrates an adjacent certificate-management workflow without representing PKI experience as verified CV history.
+> This is a portfolio lab and design exercise, not a claim of production PKI administration. The documented portfolio focuses on endpoint management across Microsoft Intune, Entra ID, Jamf, and PowerShell. This project demonstrates an adjacent certificate-management workflow without presenting PKI experience as verified CV history.
 
 ## Project scope
 
